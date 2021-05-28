@@ -20,3 +20,9 @@ Lootie Animation using lootie pods. Animation performed programmatically as well
 ### Lottie animation downloaded from:
 - https://lottiefiles.com/20556-coffee-like
 - https://lottiefiles.com/834-download-icon
+
+## Application ScreenShots
+
+[![Coffee-Animation.png](https://i.postimg.cc/85Tq8fs2/Coffee-Animation.png)](https://postimg.cc/1gYWwtGB)
+
+[![Download-Animation.png](https://i.postimg.cc/9XDjcTL2/Download-Animation.png)](https://postimg.cc/pyMSZ9Nc)
