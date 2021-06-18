@@ -3,7 +3,7 @@
 Lootie Animation using lootie pods. Animation performed programmatically as well as using storyboard.
 
 ### Programming language used
-- Swift
+- Swift 5
 
 ### Deployment Info
 - iOS 14.3
